@@ -99,17 +99,17 @@
 }
 
 .pagination .dot.active {
-    background-color: #4CAF50; /* Green color */
+    background-color: #166534; 
 }
 
 .page {
-    display: none; /* Hide all pages by default */
+    display: none; 
 }
 
 .page.active {
-    display: block; /* Show active page */
+    display: block; 
 }
-/* color-primary-white: rgb(240, 240, 240); */
+
 
 .content {
   display: flex;
